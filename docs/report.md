@@ -1,4 +1,4 @@
 # Porting and Optimization of a Parametric Equalizer for Embedded Audio Processing
-![image](https://github.com/user-attachments/assets/5ce9f8d3-59a7-4217-9d9c-3e2428369689)
+![image](https://github.com/user-attachments/assets/36f8c2be-7a58-40c5-acd6-6cbc184b583f)
 
 (Report content here)
